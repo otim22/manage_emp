@@ -1,2 +1,3 @@
 *.pyc
-instance/
+instance
+__pycache__
