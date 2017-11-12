@@ -1,0 +1,4 @@
+service_name: travis-pro
+repo_token: mV2Jajb8y3c6AFlcVNagHO20fiZNkXPVy
+parallel: true
+coveralls_host: https://coveralls.aperture.com
